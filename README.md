@@ -13,9 +13,6 @@ In this lab, we will explore all the components of an HTML file, including HTML 
 
 JSFiddle is a playground for novice and experienced web developers alike. It is an online web application that allows anyone to experiment with HTML, CSS, and JavaScript. As you make changes, you can see the impact of those changes live.
 
-Before effectively using JSFiddle, you need to know a few things. Refer to the screenshot below:
-
-![JSFiddle Screenshot](jsfiddle_screenshot.png)
 
 - The HTML area is where you type all the HTML tags and the web page text.
 - The CSS area is where you type all the CSS styling information.
